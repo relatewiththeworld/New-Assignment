@@ -1,0 +1,6 @@
+Question 1:
+
+	It securely stores artifacts generated during the build and deployment processes. It also stores build artifacts produced by continuous integration and makes them available for automated deployment 	to testing, staging, and production environments.
+
+Question 2:
+	The usage of Docker helps developers to build and test code in any environment and multiple stages in the application development life cycle. CI/CD along with docker supports to streamline the process, saves time on building and allows multiple developers to run their tests in parallel.  
